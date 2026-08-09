@@ -273,7 +273,7 @@ I'm always interested in connecting with people working in:
 **Data Analytics • Business Intelligence • Power BI • SQL • Python • Data Engineering • AI • Machine Learning**
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/1amjadali1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aliamjadcareer@gmail.com">
